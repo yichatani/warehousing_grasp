@@ -2,4 +2,8 @@
 
 ![](roadmap.png)
 
-A robotic programme. Still under development. 
+A robotic program. Still under development. 
+
+To begin with, install ROS.
+
+catkin_make
