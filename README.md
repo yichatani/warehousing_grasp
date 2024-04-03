@@ -2,7 +2,7 @@
 
 ![](roadmap.png)
 
-A robotic program. Still under development. 
+A robotic program. Still under development. The code will be uploaded later. 
 
 To begin with, install ROS.
 
