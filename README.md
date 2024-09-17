@@ -1,9 +1,15 @@
-# Grasp-Novel-things-Based-on-Machine-Learning
+# Static and dynamic grasping of robots for warehousing and logistics applications
 
-![](roadmap.png)
 
-A robotic program. Still under development. 
+[![Demo Video](https://img.youtube.com/vi/YLpoYdy6rt4/0.jpg)](https://www.youtube.com/watch?v=YLpoYdy6rt4)
 
-To begin with, install ROS.
+**Click the picture to see more details on my YouTube website.**
 
+<img src="roadmap.png" alt="roadmap of the project" width="75%"/>
+
+A robotic program will be open source. It used the Anygrasp. 
+
+To begin with, install ros noetic.
+
+ ```
 catkin_make
