@@ -5,7 +5,7 @@
 
 **Click the picture to see more details on my YouTube website.**
 
-<img src="roadmap.png" alt="roadmap of the project" width="50%"/>
+<img src="roadmap.png" alt="roadmap of the project" width="55%"/>
 
 A robotic program will be open source. It used the Anygrasp. 
 
