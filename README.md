@@ -11,5 +11,7 @@ A robotic program will be open source. It used the Anygrasp.
 
 To begin with, install ros noetic.
 
- ```
+```
+cd static_ws
 catkin_make
+```
