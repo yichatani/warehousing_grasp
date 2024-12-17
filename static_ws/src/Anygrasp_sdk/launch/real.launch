@@ -1,0 +1,18 @@
+<launch>
+
+    <!-- Include ur5e robot arm-->
+    <include file="$(find ur_robot_driver)/launch/ur5e_bringup.launch" />
+
+    <!-- Include ur5e moveit -->
+    <include file="$(find ur5e_moveit_config)/launch/ur5e_moveit_planning_execution.launch" >
+        <!-- <arg name="limited" default="true" /> -->
+    </include>
+    <!-- Include rviz -->
+    <include file="$(find ur5e_moveit_config)/launch/moveit_rviz.launch" >
+        <!-- <arg name="config" default="true" /> -->
+    </include>
+
+    <!-- Include kinect dk -->
+    <!-- <include file="$(find azure_kinect_ros_driver)/launch/driver.launch" /> -->
+
+</launch>

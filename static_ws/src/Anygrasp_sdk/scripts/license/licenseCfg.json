@@ -1,0 +1,14 @@
+{
+    "version": "3.0.0",
+    "feature_id": "5413130441502483238",
+    "public_key": "ZhianSu.public_key",
+    "signature": "ZhianSu.signature",
+    "license": "ZhianSu.lic",
+    "toolbox": [
+        {
+            "name": "Basic",
+            "type": "PERMANENT",
+            "data": ""
+        }
+    ]
+}
